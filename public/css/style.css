@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+  background-color: black;
+  font-family: Helvetica Neue, Helvetica;
+  color: white; 
+/*  padding-bottom: 2em;*/
+}
+  body a {
+    color: orange;
+    text-decoration: none; }
+    body a:hover {
+      color: yellow; }
+  body .content {
+    /*background: url(http://images.unsplash.com/photo-1501684990103-81819e5be7c3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=158c2f084ae462abca6192b99c23a1cc);*/
+/*    background: url(http://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=a1f7c1b49ae155ee44cc89dc1b1be4a);
+*/    
+/*    background: url(http://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=a1f7c1b49ae155ee44cc89dc1b1be4a);
+*/    
+    background: url(http://images.unsplash.com/photo-1501623364001-70bfe454b916?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=f78e0ae19c007978a7187eedf79916e3);
+      /*a cut above*/
+    /*background: url();*/
+    background-size: cover;
+    background-position: center 30%; 
+    padding-bottom: 18%;
+  }
+    body .content h1 {
+      font-weight: normal;
+      padding: 25px 0 0;
+      margin: 0px;
+      font-size: 130px; 
+      }
+    body .content p {
+      font-size: 17px;
+      margin: 5px 0 10px 10px;
+      padding: 0px; }
